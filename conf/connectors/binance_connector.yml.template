@@ -1,0 +1,8 @@
+# -----------------------------------------------------------------------------------------------------------
+# RENAME THIS FILE TO 'binance_connector.yml' AND ADD YOUR BINANCE API KEYS
+# -----------------------------------------------------------------------------------------------------------
+# 
+# See https://hummingbot.org/connectors/binance/ for more info
+
+binance_api_key: YOUR_API_KEY
+binance_api_secret: YOUR_API_SECRET
